@@ -1,27 +1,21 @@
-# Hi there, I'm Sayed Mostafa | أهلاً بك، أنا سيد مصطفى 👋
+# Dr. Eng. Sayed Mostafa
 
-### 🔬 Automotive Software Developer & ECU Tuning Expert
-Pioneer in automotive ECU software development in the Arab region. Developed multiple ECU file modification applications and created advanced AI engineering systems specializing in low-level firmware engineering, binary analysis, and diagnostic intelligence.
+**Dr. Eng. Sayed Mostafa** is a researcher, systems developer, and technology innovator with a multidisciplinary background in **Artificial Intelligence, Embedded Systems, Digital Engineering, Industrial Automation, Electrical Systems, and Automotive Technologies**.
 
----
+His professional and research interests focus on the design and development of intelligent engineering systems that integrate **Artificial Intelligence, automation, computational analysis, embedded technologies, data processing, and low-level system technologies** to address complex technical challenges.
 
-### 🔬 مطور برامج سيارات وخبير تعديل وحدات التحكم
-من أوائل مطوري برامج وأنظمة تعديل الـ ECU في الوطن العربي. قمت بتطوير العديد من تطبيقات تعديل الملفات وبناء نظام ذكاء اصطناعي متخصص في هندسة الـ Firmware، تحليل الـ Binary، وأنظمة التشخيص المتقدمة.
+His experience encompasses the development and analysis of systems related to **industrial control, medium- and low-voltage electrical networks, embedded systems, automotive Electronic Control Units (ECUs), firmware and binary analysis, automotive diagnostic systems, and AI-assisted engineering applications**.
 
----
+Dr. Eng. Sayed Mostafa is a member of the **research and development team behind Watcher Eye**, an interdisciplinary engineering and Artificial Intelligence project developed through collaborative technical research. The project is conducted by a specialized team of engineers and developers **under the leadership of Eng. Ahmed El-Sakhawy**, bringing together expertise in Artificial Intelligence, software engineering, embedded systems, automotive technologies, and engineering analysis.
 
-### 👁️ Main Research Project: Watcher Eye
-**Watcher Eye** is an AI Engineering Platform designed for system-level monitoring, ECU binary differential analysis, and diagnostic pattern recognition.
-- ⚙️ **Core Expertise:** ECU Remapping Software Development, Firmware/Binary Analysis, UDS/CAN Diagnostics, & Knowledge-based AI Systems.
-- 📜 **Research Output:** Publishing a series of technical papers and architecture specs on GitHub.
+**Watcher Eye** is envisioned as an AI-driven engineering platform designed to support the analysis, monitoring, interpretation, and understanding of complex technical systems. Its areas of focus include **ECU analysis, firmware analysis, binary analysis, diagnostic data, embedded systems, pattern recognition, anomaly detection, and intelligent engineering monitoring**.
 
-### 👁️ المشروع البحثي الرئيسي: Watcher Eye
-**Watcher Eye** هو منصة ذكاء اصطناعي هندسية متخصصة في تحليل ومراقبة الأنظمة، مقارنة واكتشاف الفروق في ملفات الـ BIN للـ ECU، واكتشاف أنماط الأعطال والتشخيص.
-- ⚙️ **الخبرات الأساسية:** تطوير برامج تعديل الـ ECU، تحليل ה-Firmware والـ Binary، تشخيص UDS/CAN، وأنظمة الذكاء الاصطناعي القائمة على المعرفة.
-- 📜 **الإنتاج البحثي:** نشر سلسلة من الأوراق التقنية والمواصفات المعمارية على GitHub.
+The project seeks to move beyond conventional software-based analysis by exploring how Artificial Intelligence can assist engineers in identifying patterns, analyzing system behavior, comparing historical data, detecting abnormal conditions, and generating informed analytical recommendations while maintaining appropriate human oversight.
 
----
+A fundamental principle of this approach is **Human-in-the-Loop Engineering AI**, in which Artificial Intelligence functions as an analytical and decision-support layer rather than an unrestricted autonomous decision-maker. Human expertise, validation, and engineering judgment remain essential, particularly when dealing with critical or safety-sensitive systems.
 
-### 📄 Research Series | السلسلة البحثية
-- [ ] **Paper 01:** The Philosophy & Architecture of Watcher Eye *(Coming Soon)*
-- [ ] **Paper 02:** AI-Assisted Binary & Firmware Differential Analysis *(Planned)*
+Dr. Eng. Sayed Mostafa's technical interests include **AI-assisted engineering, local and autonomous AI systems, ECU technologies, firmware and binary analysis, automotive diagnostics, UDS, CAN, J2534, embedded systems, intelligent monitoring, pattern recognition, anomaly detection, and engineering knowledge systems**.
+
+Through research, experimentation, and collaborative development, he contributes to the exploration of practical applications of Artificial Intelligence within engineering environments, with the broader objective of bridging **Artificial Intelligence, software engineering, embedded technologies, automotive systems, and real-world engineering applications**.
+
+His work reflects a continued interest in transforming advanced computational and AI techniques into practical engineering tools capable of supporting engineers in the **analysis, understanding, monitoring, and development of complex technical systems**.
